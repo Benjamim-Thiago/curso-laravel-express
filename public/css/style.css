@@ -1,0 +1,9 @@
+.bloco
+{
+	width: 280px;
+	height: 320px;
+	float: left;
+	margin-left:5px;
+	margin-top:5px;
+	padding: 2px;
+}
